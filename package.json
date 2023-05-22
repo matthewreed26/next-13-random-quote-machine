@@ -27,6 +27,8 @@
     "typescript": "5.0.4"
   },
   "devDependencies": {
+    "@testing-library/react": "^14.0.0",
+    "@testing-library/user-event": "^14.4.3",
     "@vitejs/plugin-react": "^4.0.0",
     "@vitest/coverage-c8": "^0.31.1",
     "@vitest/coverage-istanbul": "^0.31.1",
